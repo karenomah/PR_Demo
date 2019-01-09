@@ -10,7 +10,7 @@ A Trigger to route e-mail sent to json
 Meet ALL of the following conditions
 `received at is json@shopify.zendesk.com
 
-Actions
+
 Actions that will occur if global conditions are satisfied
 `Asignee Jay Kopinski`
 `Group IT`
