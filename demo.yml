@@ -1,0 +1,19 @@
+
+**Trigger name**
+[Agent Assign Alias] Json
+
+***Description**
+A Trigger to route e-mail sent to json
+
+**Conditions that must be met for the trigger to run**
+
+Meet ALL of the following conditions
+`received at is json@shopify.zendesk.com
+
+Actions
+Actions that will occur if global conditions are satisfied
+`Asignee Jay Kopinski`
+`Group Support Ops`
+
+https://screenshot.click/09-31-yl0nv-dbj1n.jpg
+https://shopify.zendesk.com/agent/admin/triggers/114117965132
